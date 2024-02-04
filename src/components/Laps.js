@@ -14,6 +14,7 @@ export default function Laps(props) {
                         <h2 style={{padding: '0px 0px 0px 0px'}}>Laps</h2>
                     </Col>
                     <Col>
+                        <span style = {{ justifyContent:'right', float: 'right' }}>☀️</span>
                         <DisplayModeToggle />
                     </Col>
                 </Row>
