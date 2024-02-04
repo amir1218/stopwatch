@@ -3,6 +3,5 @@
 
 ## Start Server
 ```
-yarn install;
-npm start;
+npm install; npm start;
 ```
